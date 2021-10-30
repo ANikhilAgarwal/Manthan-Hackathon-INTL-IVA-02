@@ -1,5 +1,6 @@
 #  📎 Manthan-Hackathon INTL-IVA-02
 ##  🎯 Face Recognition Through Varying Angles
+#### Face Recognition based One Shot Learning, Siamese Learning
 ### Describe Your Approach towards Solution
 We are undertaking a deep learning approach for building our face recognition model based on One Shot learning implemented through Siamese Network. The model will identify images if present in the input provided (image/video/live CCTV). Following the identification, the model is expected to recognize a suspect with an accuracy of more than 85% and send an alert to the concerned authorities if a match is confirmed.
 
